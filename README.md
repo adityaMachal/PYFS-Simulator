@@ -22,8 +22,8 @@ file-system-simulator/
 # Installation & Usage
 1️⃣ Clone the Repository    
 ```bash
-git clone https://github.com/<your-username>/file-system-simulator.git
-cd file-system-simulator
+git clone https://github.com/adityaMachal/PYFS-Simulator.git
+cd PYFS-Simulator
 ```
 2️⃣ Run the Simulator    
 ```bash
